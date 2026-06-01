@@ -1,0 +1,5 @@
+{
+  "name": "@drift/shared",
+  "private": true,
+  "main": "./types/index.ts"
+}
